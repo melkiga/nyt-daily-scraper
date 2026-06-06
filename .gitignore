@@ -1,0 +1,17 @@
+.vscode/**
+.venv/**
+__pycache__/**
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env.*
+venv/
+ENV/
+env/
+venv.bak/
+venv.old/
+.github/
+.git/
+.DS_Store
